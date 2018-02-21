@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="CTRE_Phoenix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/CTRE_Phoenix" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/CTRE_Phoenix/CTRE_Phoenix-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/CTRE_Phoenix/CTRE_Phoenix-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/CTRE_Phoenix" recursive="false" />
+  </library>
+</component>
